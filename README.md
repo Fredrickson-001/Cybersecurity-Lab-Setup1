@@ -53,3 +53,6 @@ This project is part of my ongoing development in cybersecurity. It provides an 
 
 [GitHub Profile](https://github.com/Fredrickson-001)
 
+## Lab Setup
+
+![Kali Linux running in Oracle VirtualBox](./kali-linux-setup.png)
