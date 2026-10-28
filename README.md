@@ -55,4 +55,4 @@ This project is part of my ongoing development in cybersecurity. It provides an 
 
 ## Lab Setup
 
-![Kali Linux running in Oracle VirtualBox](./kali-linux-setup.png)
+![Kali Linux running in Oracle VirtualBox](./kali-linux-setup.png.png)
