@@ -56,3 +56,9 @@ This project is part of my ongoing development in cybersecurity. It provides an 
 ## Lab Setup
 
 ![Kali Linux running in Oracle VirtualBox](./kali-linux-setup.png.png)
+
+## Lab Documentation
+
+The detailed setup and implementation report documents the lab environment, virtual machine configuration, NAT Network setup, snapshot management, and relevant security considerations.
+
+**Read the full report:** [Lab Setup and Implementation Notes](LAB-NOTES.md)
