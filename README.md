@@ -31,9 +31,9 @@ This section covers the practical stages of the lab setup, including:
 3. Connectivity testing and verification.
 4. Troubleshooting and documentation of issues encountered.
 
-## Documentation and Progress
+## Documentation and Evidence
 
-Screenshots, configuration details, troubleshooting steps, and observations will be added as the project progresses to provide a clear record of the implementation.
+The repository includes a screenshot of the Kali Linux virtual machine and a lab report documenting the environment, setup, implementation, and relevant security considerations.
 
 ## Key Learning Areas
 
